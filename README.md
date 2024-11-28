@@ -46,6 +46,6 @@
 
 <a id="licence"></a>
 ## Licence
-Ce projet est soumis à la licence publique générale GNU ([Consulter la licence](https://github.com/frezilla/chessbox?tab=readme-ov-file#))
+Ce projet est soumis à la licence publique générale GNU ([Consulter la licence](https://github.com/frezilla/chessbox?tab=GPL-3.0-1-ov-file))
 
 <p align="right">(<a href="#readme-top">retour</a>)</p>
