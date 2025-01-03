@@ -1,4 +1,4 @@
-package eu.frezilla.cheesbox.set;
+package eu.frezilla.chessbox.set;
 
 import java.util.HashSet;
 import java.util.Objects;

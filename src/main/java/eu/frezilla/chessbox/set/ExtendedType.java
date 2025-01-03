@@ -1,4 +1,4 @@
-package eu.frezilla.cheesbox.set;
+package eu.frezilla.chessbox.set;
 
 public enum ExtendedType {
     King(Type.King, "\u265a", "\u2654"),

@@ -1,4 +1,4 @@
-package eu.frezilla.cheesbox.board;
+package eu.frezilla.chessbox.board;
 
 import java.util.Objects;
 

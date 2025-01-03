@@ -1,9 +1,9 @@
-package eu.frezilla.cheesbox;
+package eu.frezilla.chessbox;
 
-import eu.frezilla.cheesbox.set.ChessMan;
-import eu.frezilla.cheesbox.set.Pieces;
+import eu.frezilla.chessbox.set.ChessMan;
+import eu.frezilla.chessbox.set.Pieces;
 
-public class Cheesbox {
+public class Chessbox {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
