@@ -1,7 +1,9 @@
 package eu.frezilla.chessbox.board;
 
 import java.util.Objects;
+import lombok.Data;
 
+@Data
 public final class Square {
     
     private final SquareColor color;

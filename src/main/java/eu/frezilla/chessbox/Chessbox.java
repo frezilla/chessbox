@@ -1,5 +1,7 @@
 package eu.frezilla.chessbox;
 
+import eu.frezilla.chessbox.board.Board;
+import eu.frezilla.chessbox.ihm.ChessBoxUI;
 import eu.frezilla.chessbox.set.ChessMan;
 import eu.frezilla.chessbox.set.Pieces;
 
@@ -17,5 +19,7 @@ public class Chessbox {
         for (ChessMan chessMan : pieces.getWhitePieces().toIterable()) {
             System.out.print(chessMan + " ");
         }
+        
+        new ChessBoxUI(new Board());
     }
 }
